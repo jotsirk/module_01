@@ -1,0 +1,9 @@
+{
+  "name" : "module_01",
+  "cloneable" : true,
+  "systems" : [ ],
+  "networks" : [ ],
+  "environmentType" : "EXERCISE",
+  "type" : "MODULE",
+  "version" : 1
+}
